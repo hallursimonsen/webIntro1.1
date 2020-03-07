@@ -11,6 +11,6 @@
     <title>webIntro1.1</title>
 </head>
 <body>
-<h1>Nu har du så fået lavet din første JSP side!</h1>
+<h1>Ása sokkar</h1>
 </body>
 </html>
